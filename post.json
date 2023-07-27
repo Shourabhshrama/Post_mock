@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Sample Post 1",
+      "image": "https://example.com/image1.jpg",
+      "description": "This is the first sample post with some description."
+    },
+    {
+      "id": 2,
+      "title": "Sample Post 2",
+      "image": "https://example.com/image2.jpg",
+      "description": "This is the second sample post with a different description."
+    },
+    {
+      "id": 3,
+      "title": "Sample Post 3",
+      "image": "https://example.com/image3.jpg",
+      "description": "This is the third sample post with another description."
+    },
+    {
+      "id": 4,
+      "title": "Sample Post 4",
+      "image": "https://example.com/image4.jpg",
+      "description": "This is the fourth sample post with yet another description."
+    },
+    {
+      "id": 5,
+      "title": "Sample Post 5",
+      "image": "https://example.com/image5.jpg",
+      "description": "This is the fifth sample post with a unique description."
+    },
+    {
+      "id": 6,
+      "title": "Sample Post 6",
+      "image": "https://example.com/image6.jpg",
+      "description": "This is the sixth sample post with a special description."
+    }
+  ]
+}
